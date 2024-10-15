@@ -20,7 +20,7 @@ const Footer = () => {
                     <div className="font-bold text-[16px]">Contact Me</div>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <FaPhoneAlt />
-                        <span className="text-[15px] ml-[6px]">+91 72840 33848</span>    
+                        <span className="text-[15px] ml-[6px]">+1 (669) 262 8115</span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                     <MdOutlineMail />
